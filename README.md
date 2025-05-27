@@ -1,1 +1,1 @@
-# PICPROJECT
+It creates a simple password-protected control system. Once the correct password (1234) is entered using the keypad, it shows an "Access Granted" message and allows the user to turn a device ON (by pressing 1) or OFF (by pressing 2). Pressing * (k==10) exits back to password entry.
